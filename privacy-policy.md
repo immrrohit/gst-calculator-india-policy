@@ -1,6 +1,6 @@
 # Privacy Policy - GST Calculator India
 
-**Effective Date:** [1 May, 2026]
+**Effective Date:** 3 May, 2026
 
 GST Calculator India ("the App") respects your privacy.
 
@@ -18,9 +18,11 @@ If you use the Share feature, content is shared only through apps/services you c
 
 ## 4) Advertising
 
-The current version of the App does not display ads.
+The App displays banner advertisements served by Google AdMob. AdMob may collect device identifiers and usage data to serve relevant ads.
 
-If ads are enabled in a future update, this policy will be updated to explain ad-related data handling and third-party services used.
+For details, see Google's Privacy Policy: https://policies.google.com/privacy
+
+You can opt out of personalised ads through your device settings under Google > Ads > "Opt out of Ads Personalisation".
 
 ## 5) Third-Party Services
 
@@ -40,4 +42,4 @@ We may update this Privacy Policy from time to time. Any updates will be reflect
 
 ## 9) Contact
 
-For privacy-related questions, contact: [grizplayapp@gmail.com]
+For privacy-related questions, contact: grizplayapp@gmail.com
